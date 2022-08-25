@@ -1,3 +1,17 @@
+# HOPR Wallet
+
+### Demo Video
+
+https://user-images.githubusercontent.com/102393474/186719596-532840d8-0e00-48d5-97f5-dac6160300a3.mp4
+
+## Launch a HOPRd cluster
+
+### Gitpod
+https://gitpod.io/#github.com/hoprnet/hoprnet/tree/release/lisbon
+
+### HOPR Playground
+https://playground.hoprnet.org/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
